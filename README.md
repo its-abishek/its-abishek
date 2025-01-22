@@ -1,4 +1,4 @@
-- 👋 Hi, I’m abishek
+- 👋 Hello, I’m abishek
 - 👀 I’m interested in Full Stack
 - 🌱 I’m currently learning MERN Stack
 - 📫 reach me itsabishek2004@gmail.com
