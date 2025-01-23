@@ -1,5 +1,5 @@
 - 👋 Hello, I’m abishek
-- 👀 I’m interested in Full Stack
+- 👀 I’m interested in Full Stack WebDeveloper
 - 🌱 I’m currently learning MERN Stack
 - 📫 reach me itsabishek2004@gmail.com
 - 💼 LinkedIn : https://www.linkedin.com/in/itsabishek
